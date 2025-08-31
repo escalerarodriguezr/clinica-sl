@@ -209,7 +209,6 @@ La administración sanitaria puede pedir:
 👉 Además, internamente genera tensión con los demás socios, porque se desequilibra el reparto de beneficios.
 
 
-Muy buena pregunta, Rafa 👌. Aquí es fundamental separar **dos planos distintos de responsabilidad**: la **sanitaria/profesional** y la **societaria/administrativa**.
 
 ---
 
@@ -276,4 +275,128 @@ Muy buena pregunta, Rafa 👌. Aquí es fundamental separar **dos planos distint
 2. Complementarlo con un **seguro de administradores (D\&O)** para cubrir a Socio 2 frente a reclamaciones que no son sanitarias, sino de gestión.
 
 ---
+
+
+# 📑 Responsabilidades del Socio 2 como **Administrador Único**
+
+En caso de que el Socio 2 sea designado como **Administrador Único** de la sociedad, pese a ostentar únicamente un **10% del capital social**, asumirá en exclusiva la **dirección legal y representación de la sociedad**, con las siguientes responsabilidades:
+
+---
+
+## 1. **Responsabilidad societaria y civil (art. 236 LSC)**
+
+* Responderá personalmente con su **patrimonio** de los daños causados a la sociedad, a los socios o a terceros por actos contrarios a la Ley, a los estatutos o por incumplimiento de sus deberes.
+* Esta responsabilidad es **solidaria e ilimitada**, es decir, no se limita a su 10% de participación, sino a la totalidad del daño causado.
+
+---
+
+## 2. **Responsabilidad por deudas sociales (art. 367 LSC)**
+
+* Si la sociedad incurre en **causa de disolución** (pérdidas que reduzcan patrimonio neto por debajo del 50% del capital, inactividad, etc.) y el administrador no convoca Junta en el plazo de 2 meses para adoptar medidas (disolución, ampliación de capital), responderá **personal y solidariamente de todas las deudas sociales contraídas a partir de ese momento**.
+* Esto significa que, aunque solo tenga el 10%, puede ser perseguido personalmente por proveedores, bancos, Hacienda o Seguridad Social.
+
+---
+
+## 3. **Responsabilidad tributaria y con la Seguridad Social**
+
+* Puede ser declarado **responsable subsidiario** de deudas fiscales de la sociedad (IVA, retenciones, Impuesto de Sociedades) si se demuestra negligencia en su gestión.
+* Puede ser declarado **responsable solidario** de deudas con la Seguridad Social, especialmente por impago de cuotas de trabajadores o por altas incorrectas.
+
+---
+
+## 4. **Responsabilidad administrativa y penal**
+
+* El administrador único puede ser sancionado por infracciones administrativas graves (ej. incumplir normativa de protección de datos, normativa sanitaria o de prevención de riesgos laborales).
+* En supuestos de fraude o negligencia grave, puede derivarse **responsabilidad penal** (delitos societarios, fiscales, contra la salud pública).
+
+---
+
+## 5. **Responsabilidad en materia sanitaria**
+
+* Aunque Socio 2 no sea dentista, como administrador único:
+
+  * Tiene la obligación de velar por que exista un **director clínico odontólogo colegiado** (Socio 3 u otro).
+  * Responderá si la clínica opera sin cumplir los requisitos legales (ej. sin seguro de RC sanitaria, sin director sanitario en activo, sin autorización sanitaria).
+* Podría ser responsable solidario si la reclamación contra la clínica deriva de una **falta de gestión administrativa** y no solo de mala praxis clínica.
+
+---
+
+## 6. **Responsabilidad frente a los socios**
+
+* Al ser administrador único, cualquier gestión errónea puede dar lugar a que los otros socios (Socio 1 y Socio 3) interpongan **acción social de responsabilidad** contra él.
+* Esto significa que, aunque sea minoritario, puede acabar enfrentándose a reclamaciones de los socios mayoritarios si consideran que ha actuado en perjuicio de la sociedad.
+
+---
+
+# 📌 Conclusión clara
+
+👉 El Socio 2, siendo **Administrador Único con solo un 10%**, asumiría una **responsabilidad desproporcionada** frente a su participación.
+👉 En caso de problemas (deudas, Hacienda, Sanidad, reclamaciones), **respondería personalmente con su patrimonio**, incluso por decisiones que benefician más a los socios mayoritarios.
+👉 Lo más prudente sería **evitar que Socio 2 sea administrador único** y optar por:
+
+* **Administración mancomunada** (Socio 2 + Socio 3).
+* O un **consejo de administración**, donde las decisiones se compartan y el riesgo se reparta.
+
+---
+
+# 📑 Responsabilidades del Socio 2 como Administrador Único (con foco en pagos e impuestos)
+
+## 1. **Problemas con Hacienda (impuestos)**
+
+Como Administrador Único, el Socio 2 será el **responsable legal** de que la sociedad cumpla con todas sus obligaciones fiscales: IVA, IRPF (retenciones de trabajadores y profesionales), Impuesto de Sociedades, etc.
+
+* **Si no se presentan declaraciones o no se pagan impuestos**, Hacienda puede derivar la **responsabilidad subsidiaria o solidaria** directamente al Administrador Único.
+* Esto incluye:
+
+  * Retenciones de IRPF no ingresadas → Hacienda entiende que es dinero “de terceros” (trabajadores o proveedores) y va directamente contra el administrador.
+  * IVA repercutido pero no ingresado → puede derivar en responsabilidad penal si supera los 120.000 € anuales.
+* **Consecuencia:** El Socio 2 respondería con su **patrimonio personal**, incluso aunque los demás socios hubieran decidido “ahorrar impuestos” o retrasar pagos.
+
+---
+
+## 2. **Pagos en “B” (dinero negro)**
+
+Si la clínica realiza pagos en “B” (sin declarar), como pagos a empleados sin contrato o a proveedores sin factura, el Administrador Único es el **primer responsable** frente a Hacienda, Seguridad Social y, en casos graves, la jurisdicción penal.
+
+* **Sanciones fiscales:**
+
+  * Multas del 50% al 150% de la cuota defraudada.
+  * No deducibilidad de esos pagos en el Impuesto de Sociedades.
+* **Sanciones laborales:**
+
+  * Altas de oficio y cotizaciones retroactivas por parte de la Seguridad Social.
+  * Multas de hasta 10.000 € por trabajador en fraude.
+* **Riesgo penal:**
+
+  * Si la facturación oculta o fraude supera los **120.000 € anuales por impuesto**, puede considerarse **delito fiscal** → penas de prisión (1 a 5 años) y multas.
+  * En fraude laboral (pago en B a trabajadores), puede derivar en **delito contra la Seguridad Social** (>50.000 € de cuotas impagadas).
+
+👉 Aunque la decisión de pagar en “B” fuera consensuada entre socios, **el único responsable directo frente a la Administración sería el Administrador Único (Socio 2)**, ya que es el representante legal de la sociedad.
+
+---
+
+## 3. **Responsabilidad frente a socios y terceros**
+
+* Los demás socios (Socio 1 y Socio 3) podrían alegar que **no fueron informados** o que la decisión fue del Administrador, y plantear contra él una **acción social de responsabilidad** (art. 236 LSC).
+* En caso de inspección, Hacienda y la Seguridad Social nunca van contra los socios capitalistas, sino contra:
+
+  * **La sociedad (SL)** → responde con su patrimonio.
+  * **El Administrador Único** → responde con el suyo personal.
+
+---
+
+## 4. **Conclusión clara**
+
+👉 Si Socio 2 es **Administrador Único**, cualquier práctica de pagos en “B” o impagos fiscales recae directamente sobre él.
+👉 Aunque las decisiones sean consensuadas, **Hacienda y la Seguridad Social no persiguen a los socios capitalistas, sino al Administrador**.
+👉 El riesgo para Socio 2 es **altísimo**: multas, derivación de responsabilidad, e incluso causas penales.
+
+---
+
+# 📌 Recomendación
+
+* Evitar que Socio 2 sea **Administrador Único** con solo el 10%.
+* Optar por **administración mancomunada (Socio 2 + Socio 3)** para repartir responsabilidad.
+* Incluir en el **pacto de socios** una cláusula que prohíba expresamente operaciones en “B” y obligue a todos los socios a cumplir la normativa fiscal y laboral.
+* Contratar un **seguro de responsabilidad de administradores (D\&O)** como red de seguridad adicional.
 
